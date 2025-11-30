@@ -4,6 +4,7 @@ AI Platform Engineer · GPU/LLM Architect · Quantum-Inspired Systems
 Welcome to my GitHub profile.
 
 I build modular, distributed AI systems that combine:
+
 - GPU/CPU acceleration  
 - LLaMA/Mistral/Hybrid GPT routing  
 - memory & reasoning engines  
@@ -96,6 +97,3 @@ I design and build complete AI platforms—from architecture to GPU routing, dia
 AI Platform Engineer & System Architect
 
 Open for collaboration.
-
----
-
