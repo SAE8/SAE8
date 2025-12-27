@@ -1,17 +1,33 @@
-# Evgenii “Moisey” Semenov  
-AI Platform Engineer · GPU/LLM Architect · Quantum-Inspired Systems
+## 🚀 Flagship Platform — BotZaVOD
 
-Welcome to my GitHub profile.
+**BotZaVOD** is my flagship AI platform project — a modular, distributed engine  
+for orchestrating **GPU / CPU / LLM** workloads across local and remote nodes.
 
-I build modular, distributed AI systems that combine:
+It is designed as a **foundational AI infrastructure layer**, not a single application,  
+with strong focus on scalability, observability, and autonomous orchestration.
 
-- GPU/CPU acceleration  
-- LLaMA/Mistral/Hybrid GPT routing  
-- memory & reasoning engines  
-- multi-node orchestration over Tailscale  
-- autonomous agents  
-- quantum-inspired accelerator modules  
-- full diagnostics & observability  
+🔗 **Main platform repository:**  
+https://github.com/SAE8/botzavod-github-lite
+
+📐 **Architecture overview:**  
+https://github.com/SAE8/botzavod-github-lite/blob/main/ARCHITECTURE.md
+
+📊 **Investor & product overview:**  
+https://github.com/SAE8/botzavod-github-lite/blob/main/INVESTOR_OVERVIEW.md
+
+---
+
+### 🎯 What I Do
+
+I design and build **AI platform infrastructure**, focusing on:
+
+- distributed GPU / LLM systems  
+- accelerator orchestration (CUDA, hybrid, local + remote)  
+- memory & context pipelines  
+- diagnostics-first, production-oriented architectures
+- 
+## Evgenii “Moisey” Semenov  
+AI Platform Engineer · GPU/LLM Architect · Quantum-Inspired Compute Systems 
 
 My work is centered around scalable AI infrastructure and next-generation compute pipelines.
 ---
