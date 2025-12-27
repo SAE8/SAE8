@@ -14,6 +14,15 @@ I build modular, distributed AI systems that combine:
 - full diagnostics & observability  
 
 My work is centered around scalable AI infrastructure and next-generation compute pipelines.
+---
+
+### 🚀 Flagship Platform
+
+I am the architect and creator of **BotZaVOD** — a foundational AI platform engine for distributed GPU/CPU/LLM systems.
+
+BotZaVOD is designed as a **universal, modular, and autonomous core** for building scalable AI infrastructures, not isolated applications.
+
+🔗 Main repository: https://github.com/SAE8/botzavod-github-lite
 
 ---
 
