@@ -1,10 +1,11 @@
-## 🚀 Flagship Platform — BotZaVOD
+# 🚀 AI Platform Engineer — BotZaVOD
 
-**BotZaVOD** is my flagship AI platform project — a modular, distributed engine  
-for orchestrating **GPU / CPU / LLM** workloads across local and remote nodes.
+I am an **AI Platform Engineer (GPU / LLM Infrastructure)** building **architecture-level systems**
+for distributed compute, orchestration, and diagnostics-first AI platforms.
 
-It is designed as a **foundational AI infrastructure layer**, not a single application,  
-with strong focus on scalability, observability, and autonomous orchestration.
+It is designed as a **foundational AI infrastructure layer**, not a single application,
+with a strong focus on **GPU/LLM infrastructure**, scalability, observability,
+and **diagnostics-first autonomous orchestration**.
 
 🔗 **Main platform repository:**  
 https://github.com/SAE8/botzavod-github-lite
@@ -19,7 +20,7 @@ https://github.com/SAE8/botzavod-github-lite/blob/main/INVESTOR_OVERVIEW.md
 
 ### 🎯 What I Do
 
-I design and build **AI platform infrastructure**, focusing on:
+I design and build **AI platform & LLM infrastructure**, focusing on:
 
 - distributed GPU / LLM systems  
 - accelerator orchestration (CUDA, hybrid, local + remote)  
@@ -27,7 +28,7 @@ I design and build **AI platform infrastructure**, focusing on:
 - diagnostics-first, production-oriented architectures
 - 
 ## Evgenii “Moisey” Semenov  
-AI Platform Engineer · GPU/LLM Architect · Quantum-Inspired Compute Systems 
+AI Platform Engineer (GPU / LLM Infrastructure) · Architecture-level Systems
 
 My work is centered around scalable AI infrastructure and next-generation compute pipelines.
 ---
@@ -118,7 +119,7 @@ Together they form a unified stack for **distributed reasoning + accelerated com
 # 👤 About Me  
 I design and build complete AI platforms—from architecture to GPU routing, diagnostics, memory engines, accelerators, and orchestration layers.
 
-**Evgenii “Moisey” Semenov**  
-AI Platform Engineer & System Architect
+**Evgenii “Moisey” Semenov**
+AI Platform Engineer (GPU / LLM Infrastructure)
 
 Open for collaboration.
